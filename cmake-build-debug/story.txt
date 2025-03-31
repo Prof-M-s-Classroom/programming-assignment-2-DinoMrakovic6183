@@ -1,48 +1,6 @@
-1 | WELCOME TO: (Tod the Manaless? Wizard) You are in history class, your teacher is discussing merlin the wizard while you drift off to sleep. As you wake up, a snively voice says in a mocking tone, "I bet he doesn't have any mana!" and a group of chittery voices laugh and snicker. You stumble upwards and find yourself in a damp cave, a gang of goblins surrounding you. The previous chatter and laughter you heard while you was still lying down has turned to utter silence. The smallest goblin musters up some courage and steps up, facing you and speaks with a quivering voice, "I'm D-d-dibby, and I'd l-l-like it if you help us defeat t-t-the evil w-w-wizard guarding the way out of this c-c-cave." -(See Dialogues)- | 2 | -1
-2 | 1-("How powerful is this evil wizard?")-2-(See More Dialogues)- Page 1/3 | 3 | 4
-3 | DIBBY: "We don't know! He said if we try to escape, he'll use his mana to kill us. We spent the last three days looking for a mighty, good wizard, like you, to save us!" -(See Dialogues)- | 5 | -1
-4 | 1-("Yes, Dibby. I will help you on this quest!")-2-(See More Dialogues)- Page 2/3 | 6 | 9
-5 | 1-("Yes, Dibby. I will help you on this quest!")-2-("Nah, I think imma go further into the cave.")- | 6 | 10
-6 | DIBBY: "Yippiee thank you mister... uhh misterrr..." -(See Dialogues)- | 7 | -1
-7 | -("Tod")--("Mr. Goblin Killer")- | 8 | 11
-8 | DIBBY: "MISTER TOD OUR HERO!!! (all the goblins erupt in cheering)" Dibby leads you towards the exit of the cave, the rest of the goblins trail behind you. The only noise is the group's steps splashing in the murky cave water, echoing further down the tunnel. -(See Dialogues)- | 12 | -1
-9 | 1-("Nah, I think imma go further into the cave.")-2-(Back to First Dialogue)- Page 3/3 | 10 | 2
-10 | DIBBY: "N-N-NOOOOOO P-P-PLEASE HELP USSSSS!!!" -(See Dialogues)- | 3 | -1
-11 | DIBBY "Erm, r-r-right, I'll call you m-m-mister G.K." Dibby leads you towards the exit of the cave, the rest of the goblins trail behind you. The only noise is the group's steps splashing in the murky cave water, echoing further down the tunnel. -(See Dialogues)- | 12 | -1
-12 | [Roll PERCEPTION] DC: 5 -(See Options)- | 13 | -1
-13 | 1-(I passed [rolled a 5 or higher])-2-(I failed)- | 14 | -1
-14 | You begin to hear a faint voice, chanting in some foreign language. It's too far for you to distinguish the exact words being said. DIBBY: "That's the e-e-vil wizard, he's casting a spell to try and f-f-find us." -(See Dialogues)- | 15 | -1
-15 | 1-("Let's make a plan")- | 16 | -1
-16 | 1-("You all run up to distract him, and I'll sneak around and hit him while he isn't looking.")-2-(See More Dialogues)- Page 1/5 | 17 | -1
-17 | DIBBY: That's a good idea, but aren't you going to use magic? You are a wizard after all. | 18 | -1
-18 | [Roll WISDOM] DC: 10 -(See Options)- | 19 | -1
-19 | 1-(I passed [rolled a 10 or higher])-2-(I failed)- | 20 | -1
-20 | You think to yourself: "If this isn't the real world, maybe I am a wizard" -(See Dialogues)- | 21 | -1
-21 | 1-("My plan will work")-2-("Let's try something else")- | 22 | 16
-22 | The goblins all jog up to a bend in the tunnel, a dim light shines through it. Once they reach the bend, Dibby lets out a warcry and the goblins all charge in. -(See Dialogues)- | 23 | -1
-23 | [Roll STEALTH] DC: vs. Evil Wizard: [Roll PERCEPTION -5] -(See Options)- | 24 | -1
-24 | 1-(I passed [beat the evil wizard's roll])-2-(I failed)- | 25 | -1
-25 | You sneak through the opening, revealing a murky cave room outfitted with lavish decor and furniture. Darting behind chairs and cabinets, blending into the shadows, you sneak up to the evil wizard and prepare to strike. -(See Dialogues)- | 26 | -1
-26 | 1-(Karate chop the nape of his neck, attempting to incapacitate him, as seen in cartoons.)-2-(Reach out to twist his head in a quick motion, snapping his neck)- | 27 | -1
-27 | You hear a roaring cheer from all the goblins, "He's gone, finally we're free!!!" All of the goblins except Dibby scurry out of the cave in a large green tidal wave. Dibby looks up at you, he looks unsure of whether to follow his gang or to stay with you. -(See Dialogues)- | 28 | -1
-28 | 1-("Go with them, Dibby. Be free!")-2-("You know, I could use your help as a guide. I'm not from around here.")- | 29 | -1
-29 | Dibby nods and runs away quickly, trying to catch up with his gang. You step through the cave's exit, into the moonlit forest, and thus concludes your manaless? adventure in the goblin cave. | -1 | -1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1 | You wake up in a forest clearing. There are two paths. | 2 | 3
+2 | You follow the path to the left and encounter a river. | 4 | 5
+3 | You go right and find an old cabin. | 5 | 6
+4 | You swim across the river and find a treasure chest. | -1 | -1
+5 | You find a hidden passageway that leads to a secret room. | 7 | -1
+6 | The cabin is empty. You find a trapdoor leading downwards. | -1
