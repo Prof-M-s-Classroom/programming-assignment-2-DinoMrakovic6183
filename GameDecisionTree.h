@@ -105,7 +105,7 @@ public:
 
             // If both options exist, prompt normally.
             if (hasLeft && hasRight) {
-                std::cout << "Enter choice (1 for left, 2 for right): ";
+                std::cout << "Enter choice (1 or 2): ";
                 int choice;
                 std::cin >> choice;
                 if (std::cin.fail() || (choice != 1 && choice != 2)) {
@@ -122,7 +122,7 @@ public:
             }
             // Only left option is available.
             else if (hasLeft && !hasRight) {
-                std::cout << "Only left path is available. Enter 1 to continue: ";
+                std::cout << "Press 1 to continue: ";
                 int choice;
                 std::cin >> choice;
                 if (std::cin.fail() || choice != 1) {
@@ -135,7 +135,7 @@ public:
             }
             // Only right option is available.
             else if (!hasLeft && hasRight) {
-                std::cout << "Only right path is available. Enter 2 to continue: ";
+                std::cout << "Press 2 to continue: ";
                 int choice;
                 std::cin >> choice;
                 if (std::cin.fail() || choice != 2) {
