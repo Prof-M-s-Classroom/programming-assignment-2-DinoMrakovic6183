@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.24"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "CS210PA2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CS210PA2-Debug-b7d2671922af20796413.json",
+					"jsonFile" : "target-CS210PA2-Debug-419bae9696f1a4bc07e7.json",
 					"name" : "CS210PA2",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/manjumuralidharan/CLionProjects/CS210PA2/cmake-build-debug",
-		"source" : "/Users/manjumuralidharan/CLionProjects/CS210PA2"
+		"build" : "C:/Users/dinom/CLionProjects/programming-assignment-2-DinoMrakovic6183/cmake-build-debug",
+		"source" : "C:/Users/dinom/CLionProjects/programming-assignment-2-DinoMrakovic6183"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 7
 	}
 }

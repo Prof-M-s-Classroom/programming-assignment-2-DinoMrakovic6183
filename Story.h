@@ -3,12 +3,13 @@
 
 #include <string>
 using namespace std;
+
 class Story {
 public:
-    string description;
-    int eventNumber;
-    int leftEventNumber;
-    int rightEventNumber;
+    string description;      // Text representing what happens at this point in the game
+    int eventNumber;         // Unique identifier for each event
+    int leftEventNumber;     // Event number if the player chooses the left path
+    int rightEventNumber;    // Event number if the player chooses the right path
 
     // Default constructor
     Story();
