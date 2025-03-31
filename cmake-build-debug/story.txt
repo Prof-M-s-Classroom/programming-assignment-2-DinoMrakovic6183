@@ -46,7 +46,7 @@
 46 | 1-("He's out, now where's the exit?")-2-("Finish him, Dibby. Make sure he won't trap you ever again!")- | 27 | 47
 47 | Dibby and the goblins take turns smacking the evil wizard with rocks, then poke him after to make sure he's dead. You hear a roaring cheer from all the goblins, "He's gone, finally we're free!!!" All of the goblins except Dibby scurry out of the cave in a large green tidal wave. Dibby looks up at you, he looks unsure of whether to follow his gang or to stay with you. -(See Dialogues)- | 28 | -1
 48 | 1-("Okayyy fine.")- | 6 | -1
-49 | DIBBY: "YES, YES I WILL!!!" You and Dibby move into a nice cave and live happily ever after. | -1 | -1
+49 | DIBBY: "YES, YES I WILL!!!" You and Dibby move into a nice cave and live happily ever after, THE END. | -1 | -1
 
 
 
@@ -54,4 +54,3 @@
 
 
 
-1

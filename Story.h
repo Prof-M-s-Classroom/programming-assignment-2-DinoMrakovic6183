@@ -10,10 +10,7 @@ public:
     int leftEventNumber;
     int rightEventNumber;
 
-    // Default constructor
     Story();
-
-    // Parameterized constructor
     Story(string desc, int num, int leftNum, int rightNum);
 };
 
