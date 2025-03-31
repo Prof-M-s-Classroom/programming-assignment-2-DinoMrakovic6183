@@ -22,7 +22,13 @@
 22 | The goblins all jog up to a bend in the tunnel, a dim light shines through it. Once they reach the bend, Dibby lets out a warcry and the goblins all charge in. -(See Dialogues)- | 23 | -1
 23 | [Roll STEALTH] DC: vs. Evil Wizard: [Roll PERCEPTION -5] -(See Options)- | 24 | -1
 24 | 1-(I passed [beat the evil wizard's roll])-2-(I failed)- | 25 | -1
-25 | You sneak through the opening, revealing a murky cave room outfitted with lavish decor and furniture. | -1 | -1
+25 | You sneak through the opening, revealing a murky cave room outfitted with lavish decor and furniture. Darting behind chairs and cabinets, blending into the shadows, you sneak up to the evil wizard and prepare to strike. -(See Dialogues)- | 26 | -1
+26 | 1-(Karate chop the nape of his neck, attempting to incapacitate him, as seen in cartoons.)-2-(Reach out to twist his head in a quick motion, snapping his neck)- | 27 | -1
+27 | You hear a roaring cheer from all the goblins, "He's gone, finally we're free!!!" All of the goblins except Dibby scurry out of the cave in a large green tidal wave. Dibby looks up at you, he looks unsure of whether to follow his gang or to stay with you. -(See Dialogues)- | 28 | -1
+28 | 1-("Go with them, Dibby. Be free!")-2-("You know, I could use your help as a guide. I'm not from around here.")- | 29 | -1
+29 | Dibby nods and runs away quickly, trying to catch up with his gang. You step through the cave's exit, into the moonlit forest, and thus concludes your manaless? adventure in the goblin cave. | -1 | -1
+
+
 
 
 
